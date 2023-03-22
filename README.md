@@ -2,11 +2,11 @@
 A pricing page for a fictitious CRM platform that I coded using HTML and CSS. 
 
 ## Table of Contents
-    - [Description](#description)
-    - [Technologies Used](#technologies)
-    - [Features](#features)
-    - [Installation and Usage](#installation)
-    - [Credits](#credits)
+    1. [Description](#description)
+    2. [Technologies Used](#technologies)
+    3. [Features](#features)
+    4. [Installation and Usage](#installation)
+    5. [Credits](#credits)
   
 #### Desktop view
 ![image](https://user-images.githubusercontent.com/123034061/226996000-6237c9b4-8d81-4caf-afa1-e91e866d45e3.png)
